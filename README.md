@@ -73,7 +73,7 @@ Currently leading **QA initiatives at Sony Pictures Networks India**. Previously
 ## 📫 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/shreyanshukla/)  
-📩 [Email](mailto:shreyansh.shukla93@gmail.com) 
+📩 [Email](mailto:shreyansh.shukla93@gmail.com)  
 🚀 Always open to discussing **Quality Engineering, Automation, and Performance Testing!**  
 
 ---
