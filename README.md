@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shreyansh Shukla
 
-## 🚀 Quality Engineering Leader | Test Automation | Performance Testing
+## 🚀 Quality Engineering Leader | Performance Engineering | Test Automation | 
 
-Quality Engineering professional with a strong background in building and scaling automation frameworks for web, mobile, and API testing. Currently working as a **QA Manager at Sony Pictures Networks India**, focusing on **CMS systems, performance testing, and automation excellence**.
+Quality Engineering professional with a strong background in building and scaling automation frameworks for web, mobile, and API testing. Currently working as a **Performance Manager at Sony Pictures Networks India**, focusing on **Performance engineering,CMS systems and automation excellence**.
 
 ---
 
