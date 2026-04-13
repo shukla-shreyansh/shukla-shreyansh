@@ -2,7 +2,7 @@
 
 ## 🚀 Performance Engineering Manager | AI Quality Engineering Architect | SDET Mentor
 
-I am a Quality Engineering leader with over 11 years of experience building scalable automation pipelines and distributed performance testing frameworks. Currently, as a **Performance Manager at Sony Pictures Networks India**, I ensure platform resilience for up to **30 million concurrent users** during peak streaming events. 
+I am a Quality Engineering leader with over 12 years of experience building scalable automation pipelines and distributed performance testing frameworks. Currently, as a **Performance Manager at Sony Pictures Networks India**, I ensure platform resilience for up to **30 million concurrent users** during peak streaming events. 
 
 I am actively bridging the gap between Quality Engineering and Generative AI—architecting intelligent, LLM-powered tools that autonomously generate framework-native test code, eliminate manual documentation bottlenecks, and execute complex OTT business journeys.
 
