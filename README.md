@@ -1,71 +1,41 @@
 # 👋 Hi, I'm Shreyansh Shukla
 
-## 🚀 Performance Engineering Manager | AI Quality Engineering Architect | SDET Mentor
+### 🚀 Performance Engineering Manager | AI Quality Engineering Architect | SDET Mentor
 
-I am a Quality Engineering leader with over 12 years of experience building scalable automation pipelines and distributed performance testing frameworks. Currently, as a **Performance Manager at Sony Pictures Networks India**, I ensure platform resilience for up to **30 million concurrent users** during peak streaming events. 
+I am a **Performance Manager & AI QE Architect** with 12 years of experience engineering high-scale, high-resiliency software delivery pipelines. My work sits at the intersection of **Distributed Infrastructure** and **Autonomous Quality Engineering.**
 
-I am actively bridging the gap between Quality Engineering and Generative AI—architecting intelligent, LLM-powered tools that autonomously generate framework-native test code, eliminate manual documentation bottlenecks, and execute complex OTT business journeys.
-
----
-
-## 🔧 Technical Expertise
-
-### 🧠 Generative AI & Orchestration
-- AWS Bedrock, Claude 3.5 Sonnet, LangChain
-- Prompt Engineering, RAG implementation, Pydantic
-
-### ⚡ Performance Testing & Observability
-- Locust, Gatling, k6
-- ELK, Grafana, Prometheus
-
-### ✅ Test Automation Architecture
-- Pytest, Playwright, Selenium, Appium, Robot Framework
-- API Testing (RestAssured, Postman, HAR parsing), Backend Service Validation
-
-### 🔗 CI/CD, DevOps & Cloud
-- Jenkins, GitHub Actions, Docker, Kubernetes, AWS
-
-### 🖥️ Programming
-- Python, Java, JavaScript, Scala
+Currently, at **Sony Pictures Networks**, I lead the Performance and QA automation charter, ensuring platform resilience for **30 Million peak concurrent users** during the world’s largest streaming events.
 
 ---
 
-## 💼 Professional Journey
+### 🧠 Pioneering AI in Quality Engineering
+I specialize in building secure, enterprise-grade AI tools that eliminate manual bottlenecks and drive "Shift-Left" autonomy:
 
-Currently leading the **Performance & QA charter at Sony Pictures Networks India**. Previously, I drove quality and architectural excellence at scale across:
-- **Viacom18 (JioCinema)**
-- **Unacademy**
-- **Disney+ Hotstar**
-- **CasaOne**
-- **OpenText**
+* 🔹 **Enterprise GenAI Test Platform:** Architected an LLM-driven engine (AWS Bedrock, Claude 3.5, LangChain) that autonomously transforms Jira requirements into structured test suites, reducing manual documentation time by **80%**.
+* 🔹 **Autonomous AI QA Agent:** Developed agentic workflows leveraging **AST analysis** and **Pydantic validation** to dynamically generate maintainable, framework-native automation code (Playwright/Pytest) from repository scans.
+* 🔹 **AI-Assisted Journey Generation:** Engineering pipelines that ingest YAML models and Jira APIs to infer complex OTT user states and output executable Python code with zero QA effort.
 
 ---
 
-## 🌟 Key Achievements
-
-- **Architected the SonyLiv OTT Automation Ecosystem:** Built a domain-specific Playwright/Pytest framework moving beyond UI scripting to encompass unified UI, API (HAR parsing/Contracts), and rigorous Analytics Event Sequence validation.
-- **Engineered an AI-Assisted Journey Generation Pipeline:** Developed a system that ingests Jira requirements (via API) or YAML models, utilizing LLMs to infer OTT user states (Premium/Free) and autonomously output executable Python automation code.
-- **Architected QAtron (GenAI Tool):** Built a Claude-powered platform integrating directly with Jira to autonomously generate structured test cases, reducing manual QA documentation time by 80%.
-- **Developing Agentron (AI QA Agent):** Designing an autonomous, multi-framework agent that analyzes repository architectures to dynamically generate syntactically valid Pytest, Playwright, and Cucumber code.
-- **Massive Scale Streaming:** Built distributed load testing suites using Locust/k6 and AWS to support 30M+ concurrent users for high-profile live events (IPL, WPL).
-- **Infrastructure Optimization:** Drove intelligent test infrastructure management initiatives resulting in over ₹1 crore in direct cloud cost savings.
+### 🔧 Technical Moat
+* ⚡ **Massive-Scale Performance:** Architecting distributed load-testing frameworks (**Locust, k6, Gatling**) on AWS to validate backend resilience for **30M+ concurrent users**.
+* ✅ **Unified OTT Validation:** Designed a domain-aligned Playwright/Pytest ecosystem encompassing UI, **API (HAR parsing/Contracts)**, and strict **Analytics Event Sequence** validation.
+* 📡 **Observability & SRE:** Deep performance profiling and infrastructure optimization in collaboration with DevOps to proactively detect bottlenecks.
+* 🖥️ **Programming:** Python, Java, JavaScript, Scala.
 
 ---
 
-## 🎯 Current Focus Areas
-
-🔹 **AI-Driven Quality Engineering:** Expanding autonomous testing capabilities (Jira-to-Journey pipelines) using LLMs, YAML modeling, and LangChain.  
-🔹 **Unified OTT Validation:** Integrating UI, backend APIs, DRM logic, and analytics payloads into single, comprehensive test architectures.  
-🔹 **System Resilience & RCA:** Driving deep root cause analysis and architectural optimizations for high-concurrency platforms.  
-🔹 **Community Mentorship:** Building and leading the **TestWithShreyansh** QA/SDET cohort to nurture the next generation of automation leaders.  
+### 📊 Past Impact & Scale
+* 🔹 **Viacom18 (JioCinema):** Technical Authority for the world's most-watched live event (IPL), reducing testing turnaround by **12+ hours** through CI/CD optimization.
+* 🔹 **Unacademy:** Spearheaded intelligent test infrastructure management resulting in over **₹1 Crore in direct cloud cost savings**.
+* 🔹 **Legacy of Quality:** Proven architectural excellence at **Disney+ Hotstar, CasaOne, OpenText, and Cognizant.**
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
+* 💼 **LinkedIn:** [linkedin.com/in/shreyanshukla](https://linkedin.com/in/shreyanshukla)
+* 🌐 **Portfolio:** [shreyanshshukla.in](https://shreyanshshukla.in)
+* 🚀 **Always open to discussing AI in QA, Performance at scale, and Automation strategy!**
 
-💼 [LinkedIn](https://www.linkedin.com/in/shreyanshukla/)  
-🌐 [Website & Portfolio](https://shreyanshshukla.in)  
-
-🚀 *Always open to discussing AI in QA, Performance Engineering at scale, and automation strategy!* ---
-
-> *"Quality is not an act, it's a habit." - Aristotle*
+---
+> "Quality is not an act, it's a habit." — **Aristotle**
