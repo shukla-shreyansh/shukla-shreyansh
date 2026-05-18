@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shreyansh Shukla
 
-### 🚀 Performance Engineering Manager | AI Quality Engineering Architect | SDET Mentor
+### 🚀 Performance Engineering Manager | Quality Engineering Architect | SDET Mentor
 
-I am a **Performance Manager & AI QE Architect** with 12 years of experience engineering high-scale, high-resiliency software delivery pipelines. My work sits at the intersection of **Distributed Infrastructure** and **Autonomous Quality Engineering.**
+I am a **Performance Manager & QE Architect** with 12 years of experience engineering high-scale, high-resiliency software delivery pipelines. My work sits at the intersection of **Distributed Infrastructure** and **Autonomous Quality Engineering.**
 
 Currently, at **Sony Pictures Networks**, I lead the Performance and QA automation charter, ensuring platform resilience for **30 Million peak concurrent users** during the world’s largest streaming events.
 
